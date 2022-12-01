@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.firefly.land.ico",
     "slug": "firefly-api-dev",
     "status": "up",
-    "uptime": "13.43%",
-    "uptimeDay": "13.43%",
-    "uptimeWeek": "13.43%",
-    "uptimeMonth": "13.43%",
-    "uptimeYear": "13.43%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-01": 0
+      "2022-12-01": 123
     }
   }
 ]

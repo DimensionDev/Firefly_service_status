@@ -5,36 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/101.34.37.211.ico",
     "slug": "firefly-api-dev",
     "status": "up",
-    "uptime": "1.39%",
-    "uptimeDay": "1.39%",
-    "uptimeWeek": "1.39%",
-    "uptimeMonth": "1.39%",
-    "uptimeYear": "1.39%",
+    "uptime": "1.35%",
+    "uptimeDay": "1.35%",
+    "uptimeWeek": "1.35%",
+    "uptimeMonth": "1.35%",
+    "uptimeYear": "1.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-01": 221
+      "2022-12-01": 229
     }
-  },
-  {
-    "name": "QQ",
-    "url": "https://qq.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/qq.com.ico",
-    "slug": "qq",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
   }
 ]

@@ -1,6 +1,7 @@
 # Change these first
 owner: DimensionDev # Your GitHub organization or username, where this repository lives
 repo: Firefly_service_status # The name of this repository
+user-agent: cythb
 
 sites:
   - name: Google

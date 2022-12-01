@@ -1,21 +1,27 @@
 # Change these first
 owner: DimensionDev # Your GitHub organization or username, where this repository lives
 repo: Firefly_service_status # The name of this repository
-user-agent: cythb
+user-agent: "Up-or-Down/firefly (repo: https://github.com/upptime/upptime; integration: upptime)"
 
 sites:
   - name: Firefly-API (DEV)
     url: http://101.34.37.211:8000/
+    expectedStatusCodes:
+      - 200
+  - name: QQ
+    url: https://qq.com/
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /Firefly_service_status
-  logoUrl: https://raw.githubusercontent.com/DimensionDev/Firefly_service_status/master/static/img/firefly-icon.pdf
-  name: Firefly status
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: "Firefly status"
   introTitle: "Firefly status"
-  introMessage: 
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /

@@ -8,10 +8,6 @@ sites:
     url: http://101.34.37.211:8000/
     expectedStatusCodes:
       - 200
-  - name: QQ
-    url: https://qq.com/
-    expectedStatusCodes:
-      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

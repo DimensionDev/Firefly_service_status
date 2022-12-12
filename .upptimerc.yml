@@ -23,8 +23,6 @@ sites:
     url: $BT_PROFILE
   - name: NFTScan `own/all`
     url: $NFTSCAN_OWN_ALL
-    headers:
-      - "X-API-KEY": YQ3S6KXZ
   - name: NFTScan filters
     url: $NFTSCAN_FILTERS
     headers:

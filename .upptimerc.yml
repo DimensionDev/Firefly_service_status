@@ -22,9 +22,9 @@ sites:
   - name: BlockTracker `get_profile_by_id`
     url: $BT_PROFILE
   - name: NFTScan `own/all`
-    url: $NFTSCAN_OWN_ALL
+    url: https://restapi.nftscan.com/api/v2/account/own/all/0xca1257ade6f4fa6c6834fdc42e030be6c0f5a813?erc_type=erc721
     headers:
-      - "X-API-KEY": "$NFTSCAN_X_API_KEY"
+      - "X-API-KEY": "YQ3S6KXZ"
   - name: NFTScan `own/all`
     url: $NFTSCAN_FILTERS
     headers:

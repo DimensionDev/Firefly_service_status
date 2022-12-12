@@ -1,26 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: DimensionDev
+repo: Firefly_service_status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Firefly API (prod)
+    url: https://api.firefly.land/
+  - name: Firefly API (dev)
+    url: https://api-dev.firefly.land/
+  - name: RSS3 Notes
+    url: $RSS3_NOTES_URL
+    method: POST
+    body: $RSS3_NOTES_PARAM
+  - name: RSS3 Profiles
+    url: $RSS3_PROFILES_URL
+    method: POST
+    body: $RSS3_PROFILES_PARAM
+  - name: BlockTracker `get_whale_list`
+    url: $BT_URL
+  - name: BlockTracker `get_whale_feed`
+    url: $BT_WHALE_FEED
+  - name: BlockTracker `get_profile_by_id`
+    url: $BT_PROFILE
+  - name: NFTScan `own/all`
+    url: $NFTSCAN_OWN_ALL
+    headers:
+      - "X-API-KEY": $NFTSCAN_X_API_KEY
+  - name: NFTScan `own/all`
+    url: $NFTSCAN_FILTERS
+    headers:
+      - "X-API-KEY": $NFTSCAN_X_API_KEY
+    method: POST
+    body: NFTSCAN_FILTERS_PARAM
+  - name: NFTScan `assets`
+    url: $NFTSCAN_ASSETS
+    headers:
+      - "X-API-KEY": $NFTSCAN_X_API_KEY
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /Firefly_service_status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Firefly service status
+  introTitle: "introTitle"
+  introMessage: "introMessage"
   navbar:
     - title: Status
       href: /

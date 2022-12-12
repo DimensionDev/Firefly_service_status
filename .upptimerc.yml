@@ -20,11 +20,11 @@ sites:
   - name: BlockTracker `get_whale_feed`
     url: $BT_WHALE_FEED
   - name: BlockTracker `get_profile_by_id`
-    url: $BT_PROFILE
+    url: https://api.theseuslab.org/v1/twitter/users/get_profile_by_id?twitter_id=295218901
   - name: NFTScan `own/all`
-    url: https://restapi.nftscan.com/api/v2/account/own/all/0xca1257ade6f4fa6c6834fdc42e030be6c0f5a813?erc_type=erc721
+    url: $NFTSCAN_OWN_ALL
     headers:
-      - "X-API-KEY": "YQ3S6KXZ"
+      - "X-API-KEY": "$NFTSCAN_X_API_KEY"
   - name: NFTScan `own/all`
     url: $NFTSCAN_FILTERS
     headers:

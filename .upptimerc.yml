@@ -41,8 +41,8 @@ sites:
     url: $NFTSCAN_ASSETS
     headers:
       - "X-API-KEY: $NFTSCAN_X_API_KEY"
-  - name: Test API down4
-    url: https://www.testdown4.com
+  #- name: Test API down4
+  #  url: https://www.testdown4.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

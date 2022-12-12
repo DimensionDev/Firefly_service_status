@@ -166,7 +166,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "NFTScan filters",
+    "name": "NFTScan `filters`",
     "url": "$NFTSCAN_FILTERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nft-scan-filters",
@@ -184,7 +184,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "NFTScan assets",
+    "name": "NFTScan `assets`",
     "url": "$NFTSCAN_ASSETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nft-scan-assets",

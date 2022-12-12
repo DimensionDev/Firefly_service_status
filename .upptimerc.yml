@@ -42,7 +42,7 @@ sites:
     headers:
       - "X-API-KEY: $NFTSCAN_X_API_KEY"
   - name: Test API down
-    url: https://www.testdown.com
+    url: https://www.testdown1.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

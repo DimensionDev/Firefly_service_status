@@ -20,18 +20,18 @@ sites:
   - name: BlockTracker `get_whale_feed`
     url: $BT_WHALE_FEED
   - name: BlockTracker `get_profile_by_id`
-    url: https://api.theseuslab.org/v1/twitter/users/get_profile_by_id?twitter_id=295218901
-  - name: NFTScan `own/all`
-    url: $NFTSCAN_OWN_ALL
-    headers:
-      - "X-API-KEY": "$NFTSCAN_X_API_KEY"
-  - name: NFTScan `own/all`
+    url: $BT_PROFILE
+  # - name: NFTScan `own/all`
+  #   url: $NFTSCAN_OWN_ALL
+  #   headers:
+  #     - "X-API-KEY": "$NFTSCAN_X_API_KEY"
+  - name: NFTScan filters
     url: $NFTSCAN_FILTERS
     headers:
       - "X-API-KEY": "$NFTSCAN_X_API_KEY"
     method: POST
     body: NFTSCAN_FILTERS_PARAM
-  - name: NFTScan `assets`
+  - name: NFTScan assets
     url: $NFTSCAN_ASSETS
     headers:
       - "X-API-KEY": "$NFTSCAN_X_API_KEY"

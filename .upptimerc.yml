@@ -12,9 +12,9 @@ sites:
     method: POST
     body: $RSS3_NOTES_PARAM
   - name: RSS3 Profiles
-    url: https://pregod.rss3.dev/v1/profiles #$RSS3_PROFILES_URL
+    url: $RSS3_PROFILES_URL
     method: POST
-    body: '{"address": ["vitalik.eth"]}' #$RSS3_PROFILES_PARAM
+    body: $RSS3_PROFILES_PARAM
   - name: BlockTracker `get_whale_list`
     url: $BT_URL
   - name: BlockTracker `get_whale_feed`
@@ -22,9 +22,9 @@ sites:
   - name: BlockTracker `get_profile_by_id`
     url: $BT_PROFILE
   - name: NFTScan `own/all`
-    url: $NFTSCAN_OWN_ALL
+    url: https://restapi.nftscan.com/api/v2/account/own/all/0xca1257ade6f4fa6c6834fdc42e030be6c0f5a813?erc_type=erc721
     headers:
-      - "X-API-KEY": "$NFTSCAN_X_API_KEY"
+      - "X-API-KEY": "YQ3S6KXZ"
   - name: NFTScan `own/all`
     url: $NFTSCAN_FILTERS
     headers:

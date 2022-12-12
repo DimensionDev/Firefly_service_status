@@ -10,10 +10,16 @@ sites:
   - name: RSS3 Notes
     url: $RSS3_NOTES_URL
     method: POST
+    headers:
+      - "accept: application/json"
+      - "content-type: application/json"
     body: $RSS3_NOTES_PARAM
   - name: RSS3 Profiles
     url: $RSS3_PROFILES_URL
     method: POST
+    headers:
+      - "accept: application/json"
+      - "content-type: application/json"
     body: $RSS3_PROFILES_PARAM
   - name: BlockTracker `get_whale_list`
     url: $BT_URL
@@ -46,7 +52,7 @@ status-website:
   introMessage: "introMessage"
   navbar:
     - title: Status
-      href: /
+      href: /Firefly_service_status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

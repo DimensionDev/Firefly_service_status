@@ -23,16 +23,18 @@ sites:
     url: $BT_PROFILE
   - name: NFTScan `own/all`
     url: $NFTSCAN_OWN_ALL
+    headers:
+      - "X-API-KEY: $NFTSCAN_X_API_KEY"
   - name: NFTScan filters
     url: $NFTSCAN_FILTERS
     headers:
-      - "X-API-KEY": "$NFTSCAN_X_API_KEY"
+      - "X-API-KEY: $NFTSCAN_X_API_KEY"
     method: POST
     body: NFTSCAN_FILTERS_PARAM
   - name: NFTScan assets
     url: $NFTSCAN_ASSETS
     headers:
-      - "X-API-KEY": "$NFTSCAN_X_API_KEY"
+      - "X-API-KEY: $NFTSCAN_X_API_KEY"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

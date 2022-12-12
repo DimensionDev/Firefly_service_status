@@ -21,10 +21,10 @@ sites:
     url: $BT_WHALE_FEED
   - name: BlockTracker `get_profile_by_id`
     url: $BT_PROFILE
-  # - name: NFTScan `own/all`
-  #   url: $NFTSCAN_OWN_ALL
-  #   headers:
-  #     - "X-API-KEY": "$NFTSCAN_X_API_KEY"
+  - name: NFTScan `own/all`
+    url: $NFTSCAN_OWN_ALL
+    headers:
+      - "X-API-KEY": "$NFTSCAN_X_API_KEY"
   - name: NFTScan filters
     url: $NFTSCAN_FILTERS
     headers:

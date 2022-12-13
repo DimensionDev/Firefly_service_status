@@ -47,7 +47,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /Firefly_service_status
+  cname: api-status.firefly.land
   logoUrl: https://raw.githubusercontent.com/DimensionDev/Firefly_service_status/master/assets/firefly-logo.png
   name: Firefly service status
   introTitle: "Firefly Service Status"

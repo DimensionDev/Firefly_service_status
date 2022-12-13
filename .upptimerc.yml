@@ -54,7 +54,7 @@ status-website:
   introMessage: ""
   navbar:
     - title: Status
-      href: /Firefly_service_status
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

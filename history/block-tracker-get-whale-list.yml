@@ -1,7 +1,7 @@
 url: $BT_URL
-status: down
-code: 502
-responseTime: 1096
-lastUpdated: 2022-12-14T11:13:47.724Z
+status: up
+code: 200
+responseTime: 944
+lastUpdated: 2022-12-14T11:22:18.538Z
 startTime: Mon Dec 12 2022 04:02:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

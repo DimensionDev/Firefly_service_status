@@ -1,7 +1,7 @@
 url: $BT_PROFILE
-status: down
-code: 502
-responseTime: 236
-lastUpdated: 2022-12-15T10:14:35.429Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2022-12-15T10:26:24.585Z
 startTime: Mon Dec 12 2022 04:02:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

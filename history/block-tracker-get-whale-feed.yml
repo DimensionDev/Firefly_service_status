@@ -1,7 +1,7 @@
 url: $BT_WHALE_FEED
-status: down
-code: 502
-responseTime: 227
-lastUpdated: 2022-12-15T03:22:02.198Z
+status: up
+code: 200
+responseTime: 1590
+lastUpdated: 2022-12-15T03:41:01.201Z
 startTime: Mon Dec 12 2022 04:02:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.firefly.land.ico",
     "slug": "firefly-api-prod",
     "status": "up",
-    "uptime": "68.92%",
+    "uptime": "68.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "68.92%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "68.93%",
     "time": 293,
     "timeDay": 247,
     "timeWeek": 261,
@@ -214,19 +214,19 @@
     "url": "$NFTSCAN_FILTERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nft-scan-filters",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 233,
-    "timeWeek": 224,
+    "timeDay": 219,
+    "timeWeek": 221,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-01-11": 2
+      "2023-01-11": 6
     }
   },
   {
@@ -234,19 +234,19 @@
     "url": "$NFTSCAN_ASSETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nft-scan-assets",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 274,
-    "timeWeek": 229,
+    "timeDay": 244,
+    "timeWeek": 227,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-01-11": 0
+      "2023-01-11": 5
     }
   }
 ]

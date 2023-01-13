@@ -41,8 +41,10 @@ sites:
     url: $NFTSCAN_ASSETS
     headers:
       - "X-API-KEY: $NFTSCAN_X_API_KEY"
-  #- name: Test API down4
-  #  url: https://www.testdown4.com
+  - name: Scheduler Jobs
+    url: $URL_SCHEDULER_JOBS/health
+  - name: Timeline Cache (Check redis)
+    url: $URL_SCHEDULER_JOBS/health/timeline
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

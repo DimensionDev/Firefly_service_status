@@ -263,19 +263,19 @@
     "url": "$URL_SCHEDULER_JOBS/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "scheduler-jobs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 14,
-    "timeWeek": 91,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 91,
+    "timeDay": 80,
+    "timeWeek": 98,
+    "timeMonth": 91,
+    "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-02-09": 0
+      "2023-02-09": 7
     }
   },
   {
@@ -283,19 +283,19 @@
     "url": "$URL_SCHEDULER_JOBS/health/timeline",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "timeline-cache-check-redis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 33,
-    "timeDay": 3,
-    "timeWeek": 34,
-    "timeMonth": 33,
-    "timeYear": 33,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 34,
+    "timeDay": 37,
+    "timeWeek": 39,
+    "timeMonth": 34,
+    "timeYear": 34,
     "dailyMinutesDown": {
-      "2023-02-09": 0
+      "2023-02-09": 7
     }
   }
 ]

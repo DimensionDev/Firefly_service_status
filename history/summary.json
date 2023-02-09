@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.firefly.land.ico",
     "slug": "firefly-api-prod",
     "status": "up",
-    "uptime": "83.83%",
+    "uptime": "83.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.83%",
+    "uptimeYear": "83.87%",
     "time": 308,
     "timeDay": 167,
     "timeWeek": 360,
@@ -36,11 +36,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.firefly.land.ico",
     "slug": "firefly-api-dev",
     "status": "up",
-    "uptime": "94.33%",
+    "uptime": "94.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "94.33%",
+    "uptimeYear": "94.34%",
     "time": 432,
     "timeDay": 164,
     "timeWeek": 272,
@@ -70,11 +70,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-3-notes",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 442,
     "timeDay": 1987,
     "timeWeek": 548,
@@ -263,9 +263,9 @@
     "url": "$URL_SCHEDULER_JOBS/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "scheduler-jobs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -274,16 +274,18 @@
     "timeWeek": 91,
     "timeMonth": 89,
     "timeYear": 89,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   },
   {
     "name": "Timeline Cache (Check redis)",
     "url": "$URL_SCHEDULER_JOBS/health/timeline",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "timeline-cache-check-redis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -292,6 +294,8 @@
     "timeWeek": 34,
     "timeMonth": 33,
     "timeYear": 33,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   }
 ]

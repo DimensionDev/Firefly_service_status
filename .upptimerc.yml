@@ -45,6 +45,8 @@ sites:
     url: $URL_SCHEDULER_JOBS/health
   - name: Timeline Cache (Check redis)
     url: $URL_SCHEDULER_JOBS/health/timeline
+  - name: CalendarJobs
+    url: $URL_SCHEDULER_JOBS/calendar/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

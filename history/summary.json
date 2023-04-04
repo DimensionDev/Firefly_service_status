@@ -320,18 +320,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "timeline-cache-social",
     "status": "up",
-    "uptime": "3.23%",
-    "uptimeDay": "3.23%",
-    "uptimeWeek": "3.23%",
-    "uptimeMonth": "3.23%",
-    "uptimeYear": "3.23%",
+    "uptime": "1.78%",
+    "uptimeDay": "1.78%",
+    "uptimeWeek": "1.78%",
+    "uptimeMonth": "1.78%",
+    "uptimeYear": "1.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 0
+      "2023-04-04": 1
     }
   },
   {
@@ -340,18 +340,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "timeline-cache-nft",
     "status": "up",
-    "uptime": "5.48%",
-    "uptimeDay": "5.48%",
-    "uptimeWeek": "5.48%",
-    "uptimeMonth": "5.48%",
-    "uptimeYear": "5.48%",
+    "uptime": "2.91%",
+    "uptimeDay": "2.91%",
+    "uptimeWeek": "2.91%",
+    "uptimeMonth": "2.91%",
+    "uptimeYear": "2.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 0
+      "2023-04-04": 1
     }
   },
   {

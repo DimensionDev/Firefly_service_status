@@ -43,8 +43,10 @@ sites:
       - "X-API-KEY: $NFTSCAN_X_API_KEY"
   - name: Scheduler Jobs
     url: $URL_SCHEDULER_JOBS/health
-  - name: Timeline Cache (Check redis)
-    url: $URL_SCHEDULER_JOBS/health/timeline
+  - name: Timeline Cache (Social)
+    url: $URL_SCHEDULER_JOBS/health/timeline/social
+  - name: Timeline Cache (NFT)
+    url: $URL_SCHEDULER_JOBS/health/timeline/nft
   - name: CalendarJobs
     url: $URL_SCHEDULER_JOBS/calendar/health
 

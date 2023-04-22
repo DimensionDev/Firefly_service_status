@@ -1,7 +1,7 @@
 url: $URL_SCHEDULER_JOBS/health/timeline/social
-status: up
-code: 200
-responseTime: 69
-lastUpdated: 2023-04-22T22:39:49.063Z
+status: down
+code: 404
+responseTime: 155
+lastUpdated: 2023-04-22T23:00:57.012Z
 startTime: Tue Apr 04 2023 11:12:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

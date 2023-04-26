@@ -49,6 +49,10 @@ sites:
     url: $URL_SCHEDULER_JOBS/health/timeline/nft
   - name: CalendarJobs
     url: $URL_SCHEDULER_JOBS/calendar/health
+  - name: MaskStore Service
+    url: $URL_MASK_STORE/health
+  - name: MaskNetwork Service
+    url: $URL_MASK_NETWORK_SERVICE/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

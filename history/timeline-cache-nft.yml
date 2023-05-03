@@ -1,7 +1,7 @@
 url: $URL_SCHEDULER_JOBS/health/timeline/nft
-status: up
-code: 200
-responseTime: 10
-lastUpdated: 2023-05-02T23:02:54.031Z
+status: down
+code: 404
+responseTime: 40
+lastUpdated: 2023-05-03T03:18:57.189Z
 startTime: Tue Apr 04 2023 11:12:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

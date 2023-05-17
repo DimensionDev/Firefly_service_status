@@ -336,15 +336,15 @@
     "url": "$URL_SCHEDULER_JOBS/health/timeline/social",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "timeline-cache-social",
-    "status": "up",
-    "uptime": "75.86%",
-    "uptimeDay": "69.42%",
-    "uptimeWeek": "64.66%",
-    "uptimeMonth": "74.43%",
-    "uptimeYear": "75.86%",
+    "status": "down",
+    "uptime": "75.88%",
+    "uptimeDay": "69.51%",
+    "uptimeWeek": "64.65%",
+    "uptimeMonth": "74.48%",
+    "uptimeYear": "75.88%",
     "time": 35,
     "timeDay": 29,
-    "timeWeek": 30,
+    "timeWeek": 29,
     "timeMonth": 33,
     "timeYear": 35,
     "dailyMinutesDown": {
@@ -365,7 +365,7 @@
       "2023-04-15": 1200,
       "2023-04-14": 693,
       "2023-04-13": 177,
-      "2023-04-12": 89
+      "2023-04-12": 82
     }
   },
   {
@@ -376,7 +376,7 @@
     "status": "up",
     "uptime": "92.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.55%",
+    "uptimeWeek": "80.77%",
     "uptimeMonth": "89.30%",
     "uptimeYear": "92.20%",
     "time": 42,

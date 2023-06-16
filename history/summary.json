@@ -357,16 +357,16 @@
     "url": "$URL_SCHEDULER_JOBS/health/timeline/social",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "timeline-cache-social",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "78.86%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "78.84%",
     "uptimeWeek": "86.83%",
-    "uptimeMonth": "96.70%",
-    "uptimeYear": "98.63%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "98.67%",
     "time": 35,
     "timeDay": 32,
     "timeWeek": 35,
-    "timeMonth": 34,
+    "timeMonth": 33,
     "timeYear": 35,
     "dailyMinutesDown": {
       "2023-06-16": 272,
@@ -376,7 +376,7 @@
       "2023-06-12": 120,
       "2023-06-11": 129,
       "2023-06-10": 90,
-      "2023-06-09": 151
+      "2023-06-09": 112
     }
   },
   {
@@ -416,7 +416,7 @@
     "uptime": "90.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.86%",
+    "uptimeMonth": "64.82%",
     "uptimeYear": "90.18%",
     "time": 40,
     "timeDay": 72,
@@ -424,7 +424,7 @@
     "timeMonth": 31,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-06-16": 903,
+      "2023-06-16": 921,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,

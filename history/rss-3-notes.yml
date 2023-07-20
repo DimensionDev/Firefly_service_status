@@ -1,7 +1,7 @@
 url: $RSS3_NOTES_URL
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2023-07-20T23:19:22.897Z
+status: down
+code: 429
+responseTime: 203
+lastUpdated: 2023-07-20T23:26:29.277Z
 startTime: Mon Dec 12 2022 04:02:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $RSS3_PROFILES_URL
-status: up
-code: 200
-responseTime: 74
-lastUpdated: 2023-07-23T15:17:56.132Z
+status: down
+code: 429
+responseTime: 59
+lastUpdated: 2023-07-23T18:19:02.366Z
 startTime: Mon Dec 12 2022 04:02:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

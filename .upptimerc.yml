@@ -3,58 +3,56 @@ owner: DimensionDev
 repo: Firefly_service_status
 
 sites:
-  - name: Test
-    url: https://www.google.com/
-  # - name: Firefly API (prod)
-  #   url: https://api.firefly.land/
-  # - name: Firefly API (dev)
-  #   url: https://api-dev.firefly.land/
-  # - name: RSS3 Notes
-  #   url: $RSS3_NOTES_URL
-  #   method: POST
-  #   headers:
-  #     - "accept: application/json"
-  #     - "content-type: application/json"
-  #   body: $RSS3_NOTES_PARAM
-  # - name: RSS3 Profiles
-  #   url: $RSS3_PROFILES_URL
-  #   method: POST
-  #   headers:
-  #     - "accept: application/json"
-  #     - "content-type: application/json"
-  #   body: $RSS3_PROFILES_PARAM
-  # - name: BlockTracker `get_whale_list`
-  #   url: $BT_URL
-  # - name: BlockTracker `get_whale_feed`
-  #   url: $BT_WHALE_FEED
-  # - name: BlockTracker `get_profile_by_id`
-  #   url: $BT_PROFILE
-  # - name: NFTScan `own/all`
-  #   url: $NFTSCAN_OWN_ALL
-  #   headers:
-  #     - "X-API-KEY: $NFTSCAN_X_API_KEY"
-  # - name: NFTScan `filters`
-  #   url: $NFTSCAN_FILTERS
-  #   headers:
-  #     - "X-API-KEY: $NFTSCAN_X_API_KEY"
-  #   method: POST
-  #   body: NFTSCAN_FILTERS_PARAM
-  # - name: NFTScan `assets`
-  #   url: $NFTSCAN_ASSETS
-  #   headers:
-  #     - "X-API-KEY: $NFTSCAN_X_API_KEY"
-  # - name: Scheduler Jobs
-  #   url: $URL_SCHEDULER_JOBS/health
-  # # - name: Timeline Cache (Social)
-  # #   url: $URL_SCHEDULER_JOBS/health/timeline/social
-  # # - name: Timeline Cache (NFT)
-  # #   url: $URL_SCHEDULER_JOBS/health/timeline/nft
-  # - name: CalendarJobs
-  #   url: $URL_SCHEDULER_JOBS/calendar/health
-  # - name: MaskStore Service
-  #   url: $URL_MASK_STORE/health
-  # - name: MaskNetwork Service
-  #   url: $URL_MASK_NETWORK_SERVICE/health
+  - name: Firefly API (prod)
+    url: https://api.firefly.land/
+  - name: Firefly API (dev)
+    url: https://api-dev.firefly.land/
+  - name: RSS3 Notes
+    url: $RSS3_NOTES_URL
+    method: POST
+    headers:
+      - "accept: application/json"
+      - "content-type: application/json"
+    body: $RSS3_NOTES_PARAM
+  - name: RSS3 Profiles
+    url: $RSS3_PROFILES_URL
+    method: POST
+    headers:
+      - "accept: application/json"
+      - "content-type: application/json"
+    body: $RSS3_PROFILES_PARAM
+  - name: BlockTracker `get_whale_list`
+    url: $BT_URL
+  - name: BlockTracker `get_whale_feed`
+    url: $BT_WHALE_FEED
+  - name: BlockTracker `get_profile_by_id`
+    url: $BT_PROFILE
+  - name: NFTScan `own/all`
+    url: $NFTSCAN_OWN_ALL
+    headers:
+      - "X-API-KEY: $NFTSCAN_X_API_KEY"
+  - name: NFTScan `filters`
+    url: $NFTSCAN_FILTERS
+    headers:
+      - "X-API-KEY: $NFTSCAN_X_API_KEY"
+    method: POST
+    body: NFTSCAN_FILTERS_PARAM
+  - name: NFTScan `assets`
+    url: $NFTSCAN_ASSETS
+    headers:
+      - "X-API-KEY: $NFTSCAN_X_API_KEY"
+  - name: Scheduler Jobs
+    url: $URL_SCHEDULER_JOBS/health
+  # - name: Timeline Cache (Social)
+  #   url: $URL_SCHEDULER_JOBS/health/timeline/social
+  # - name: Timeline Cache (NFT)
+  #   url: $URL_SCHEDULER_JOBS/health/timeline/nft
+  - name: CalendarJobs
+    url: $URL_SCHEDULER_JOBS/calendar/health
+  - name: MaskStore Service
+    url: $URL_MASK_STORE/health
+  - name: MaskNetwork Service
+    url: $URL_MASK_NETWORK_SERVICE/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -1,7 +1,0 @@
-url: $URL_SCHEDULER_JOBS/calendar/health
-status: down
-code: 500
-responseTime: 11
-lastUpdated: 2023-08-01T14:23:19.475Z
-startTime: Tue Aug 01 2023 14:23:19 GMT+0000 (Coordinated Universal Time)
-generator: Upptime <https://github.com/upptime/upptime>

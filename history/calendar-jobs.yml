@@ -1,7 +1,7 @@
 url: $URL_SCHEDULER_JOBS/calendar/health
 status: up
 code: 200
-responseTime: 41
-lastUpdated: 2023-08-28T23:03:15.277Z
+responseTime: 40
+lastUpdated: 2023-08-29T23:02:45.031Z
 startTime: 2023-08-01T14:37:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>

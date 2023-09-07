@@ -53,6 +53,12 @@ sites:
     url: $URL_MASK_STORE/health
   - name: MaskNetwork Service
     url: $URL_MASK_NETWORK_SERVICE/health
+  - name: data-ens-indexer
+    url: $ENS_INDEXER_URL
+  - name: data-crypto-event
+    url: $CRYPTO_EVENT_URL
+  - name: data-twitter-tips
+    url: $TWITTER_TIPS_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

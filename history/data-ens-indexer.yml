@@ -1,7 +1,7 @@
 url: $ENS_INDEXER_URL
-status: up
-code: 200
-responseTime: 766
-lastUpdated: 2023-09-07T04:11:28.602Z
+status: down
+code: 502
+responseTime: 384
+lastUpdated: 2023-09-07T07:17:10.295Z
 startTime: 2023-09-07T04:11:27.832Z
 generator: Upptime <https://github.com/upptime/upptime>

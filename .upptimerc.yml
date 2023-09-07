@@ -54,11 +54,11 @@ sites:
   - name: MaskNetwork Service
     url: $URL_MASK_NETWORK_SERVICE/health
   - name: data-ens-indexer
-    url: $ENS_INDEXER_URL
+    url: $LAMBDA_MONIT_SERVER_URL?server=ens_indexer
   - name: data-crypto-event
-    url: $CRYPTO_EVENT_URL
+    url: $LAMBDA_MONIT_SERVER_URL?server=crypto_event
   - name: data-twitter-tips
-    url: $TWITTER_TIPS_URL
+    url: $LAMBDA_MONIT_SERVER_URL?server=twitter_tips
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -59,6 +59,10 @@ sites:
     url: $LAMBDA_MONIT_SERVER_URL?server=crypto_event
   - name: data-twitter-tips
     url: $LAMBDA_MONIT_SERVER_URL?server=twitter_tips
+  - name: msk-connector
+    url: $LAMBDA_MONIT_SERVER_URL?server=msk_connector
+  - name: glue-jobs
+    url: $LAMBDA_MONIT_SERVER_URL?server=glue
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

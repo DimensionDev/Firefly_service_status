@@ -1,7 +1,7 @@
 url: $LAMBDA_MONIT_SERVER_URL?server=twitter_tips
 status: up
 code: 200
-responseTime: 71
-lastUpdated: 2023-09-16T13:09:18.089Z
+responseTime: 60
+lastUpdated: 2023-09-16T23:02:53.803Z
 startTime: 2023-09-07T04:11:29.729Z
 generator: Upptime <https://github.com/upptime/upptime>

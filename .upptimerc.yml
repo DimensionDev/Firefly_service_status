@@ -57,8 +57,6 @@ sites:
     url: $LAMBDA_MONIT_SERVER_URL?server=ens_indexer
   - name: data-crypto-event
     url: $LAMBDA_MONIT_SERVER_URL?server=crypto_event
-  - name: data-twitter-tips
-    url: $LAMBDA_MONIT_SERVER_URL?server=twitter_tips
   - name: msk-connector
     url: $LAMBDA_MONIT_SERVER_URL?server=msk_connector
   - name: glue-jobs

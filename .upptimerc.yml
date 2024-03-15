@@ -57,10 +57,14 @@ sites:
     url: $LAMBDA_MONIT_SERVER_URL?server=ens_indexer
   - name: data-crypto-event
     url: $LAMBDA_MONIT_SERVER_URL?server=crypto_event
-  - name: msk-connector
+  - name: msk-connector (prod)
     url: $LAMBDA_MONIT_SERVER_URL?server=msk_connector
-  - name: glue-jobs
+  - name: glue-jobs (prod)
     url: $LAMBDA_MONIT_SERVER_URL?server=glue
+  - name: msk-connector (dev)
+    url: $LAMBDA_MONIT_SERVER_URL?server=msk_connector_dev
+  - name: glue-jobs (dev)
+    url: $LAMBDA_MONIT_SERVER_URL?server=glue_dev
   - name: mirror
     url: $LAMBDA_MONIT_SERVER_URL?server=mirror
 

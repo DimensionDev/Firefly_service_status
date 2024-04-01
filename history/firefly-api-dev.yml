@@ -1,7 +1,7 @@
 url: https://api-dev.firefly.land/
-status: down
-code: 502
-responseTime: 422
-lastUpdated: 2024-04-01T06:38:47.838Z
+status: up
+code: 200
+responseTime: 53
+lastUpdated: 2024-04-01T06:45:51.277Z
 startTime: 2023-08-01T14:37:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>

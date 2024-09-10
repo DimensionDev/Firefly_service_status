@@ -1,7 +1,7 @@
 url: $URL_MASK_STORE/health
 status: down
-code: 503
-responseTime: 213
-lastUpdated: 2024-09-09T23:05:24.305Z
+code: 502
+responseTime: 568
+lastUpdated: 2024-09-10T23:05:35.152Z
 startTime: 2023-08-01T14:37:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>

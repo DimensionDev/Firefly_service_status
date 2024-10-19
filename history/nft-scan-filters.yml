@@ -1,7 +1,7 @@
 url: $NFTSCAN_FILTERS
-status: down
-code: 502
-responseTime: 9324
-lastUpdated: 2024-10-19T15:12:45.255Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2024-10-19T15:22:10.235Z
 startTime: 2023-08-01T14:37:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>

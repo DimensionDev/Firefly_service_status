@@ -1,7 +1,7 @@
 url: $NFTSCAN_OWN_ALL
-status: up
-code: 200
-responseTime: 8445
-lastUpdated: 2025-01-13T23:05:46.815Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-01-14T03:32:09.305Z
 startTime: 2023-08-01T14:37:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>

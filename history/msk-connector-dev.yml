@@ -1,7 +1,7 @@
 url: $LAMBDA_MONIT_SERVER_URL?server=msk_connector_dev
 status: up
 code: 200
-responseTime: 4103
-lastUpdated: 2025-03-28T23:04:11.015Z
+responseTime: 5077
+lastUpdated: 2025-03-29T23:04:09.770Z
 startTime: 2024-03-15T07:47:59.159Z
 generator: Upptime <https://github.com/upptime/upptime>

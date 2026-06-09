@@ -1,7 +1,7 @@
 url: $LAMBDA_MONIT_SERVER_URL?server=mirror
-status: up
-code: 200
-responseTime: 87
-lastUpdated: 2026-06-08T23:39:34.411Z
+status: down
+code: 502
+responseTime: 120
+lastUpdated: 2026-06-09T16:34:24.048Z
 startTime: 2023-09-18T07:18:22.935Z
 generator: Upptime <https://github.com/upptime/upptime>

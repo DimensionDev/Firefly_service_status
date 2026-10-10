@@ -5,6 +5,10 @@ repo: Firefly_service_status
 sites:
   - name: Firefly API (prod)
     url: https://api.firefly.land/
+  - name: Firefly API (dev)
+    url: https://api-dev.firefly.land/
+    headers:
+      - "firefly_dev_key: $FIREFLY_DEV_KEY"
   # - name: RSS3 Notes
   #   url: $RSS3_NOTES_URL
   #   method: POST

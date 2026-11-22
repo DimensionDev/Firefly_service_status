@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.firefly.land.ico",
     "slug": "firefly-api-prod",
     "status": "up",
-    "uptime": "65.10%",
+    "uptime": "65.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.40%",
+    "uptimeYear": "66.67%",
     "time": 296,
-    "timeDay": 216,
-    "timeWeek": 229,
-    "timeMonth": 247,
-    "timeYear": 259,
+    "timeDay": 218,
+    "timeWeek": 247,
+    "timeMonth": 250,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2026-03-23": 938,
       "2026-03-22": 1440,
@@ -136,8 +136,7 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
-      "2025-11-22": 1440
+      "2025-11-23": 1440
     }
   },
   {
@@ -152,10 +151,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.72%",
     "time": 312,
-    "timeDay": 210,
-    "timeWeek": 254,
-    "timeMonth": 229,
-    "timeYear": 310,
+    "timeDay": 312,
+    "timeWeek": 279,
+    "timeMonth": 234,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-11-26": 11,
       "2025-12-01": 15,

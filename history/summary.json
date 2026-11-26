@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.85%",
+    "uptimeYear": "67.86%",
     "time": 295,
     "timeDay": 89,
     "timeWeek": 255,
@@ -140,17 +140,17 @@
     "url": "https://api-dev.firefly.land/",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.firefly.land.ico",
     "slug": "firefly-api-dev",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.72%",
-    "time": 310,
-    "timeDay": 54,
-    "timeWeek": 225,
-    "timeMonth": 218,
-    "timeYear": 310,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.71%",
+    "time": 311,
+    "timeDay": 195,
+    "timeWeek": 253,
+    "timeMonth": 225,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-12-01": 15,
       "2026-01-06": 7,
@@ -170,7 +170,7 @@
       "2026-10-22": 13,
       "2026-10-29": 8,
       "2026-11-16": 49,
-      "2026-11-26": 0
+      "2026-11-26": 78
     }
   }
 ]
